@@ -1,0 +1,7 @@
+C:\Users\sorosh\Projects\ProjectManagementSystem\bin\Debug\ProjectManagementSystem.exe.config
+C:\Users\sorosh\Projects\ProjectManagementSystem\bin\Debug\ProjectManagementSystem.exe
+C:\Users\sorosh\Projects\ProjectManagementSystem\bin\Debug\ProjectManagementSystem.pdb
+C:\Users\sorosh\Projects\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.csproj.AssemblyReference.cache
+C:\Users\sorosh\Projects\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\sorosh\Projects\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.exe
+C:\Users\sorosh\Projects\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.pdb

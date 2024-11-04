@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sorosh\\Desktop\\Now\\SoftwareEngineering2\\Solution\\ProjectManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3B30FF2-7E03-408A-B4E2-4AF0DA7A5564}|ProjectManagementSystem.csproj|c:\\users\\sorosh\\desktop\\now\\softwareengineering2\\solution\\projectmanagementsystem\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3B30FF2-7E03-408A-B4E2-4AF0DA7A5564}|ProjectManagementSystem.csproj|solutionrelative:user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3B30FF2-7E03-408A-B4E2-4AF0DA7A5564}|ProjectManagementSystem.csproj|C:\\Users\\sorosh\\Desktop\\Now\\SoftwareEngineering2\\Solution\\ProjectManagementSystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3B30FF2-7E03-408A-B4E2-4AF0DA7A5564}|ProjectManagementSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3B30FF2-7E03-408A-B4E2-4AF0DA7A5564}|ProjectManagementSystem.csproj|C:\\Users\\sorosh\\Desktop\\Now\\SoftwareEngineering2\\Solution\\ProjectManagementSystem\\administrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3B30FF2-7E03-408A-B4E2-4AF0DA7A5564}|ProjectManagementSystem.csproj|solutionrelative:administrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3B30FF2-7E03-408A-B4E2-4AF0DA7A5564}|ProjectManagementSystem.csproj|C:\\Users\\sorosh\\Desktop\\Now\\SoftwareEngineering2\\Solution\\ProjectManagementSystem\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3B30FF2-7E03-408A-B4E2-4AF0DA7A5564}|ProjectManagementSystem.csproj|solutionrelative:task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3B30FF2-7E03-408A-B4E2-4AF0DA7A5564}|ProjectManagementSystem.csproj|C:\\Users\\sorosh\\Desktop\\Now\\SoftwareEngineering2\\Solution\\ProjectManagementSystem\\teamleader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3B30FF2-7E03-408A-B4E2-4AF0DA7A5564}|ProjectManagementSystem.csproj|solutionrelative:teamleader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3B30FF2-7E03-408A-B4E2-4AF0DA7A5564}|ProjectManagementSystem.csproj|C:\\Users\\sorosh\\Desktop\\Now\\SoftwareEngineering2\\Solution\\ProjectManagementSystem\\commonenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3B30FF2-7E03-408A-B4E2-4AF0DA7A5564}|ProjectManagementSystem.csproj|solutionrelative:commonenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3B30FF2-7E03-408A-B4E2-4AF0DA7A5564}|ProjectManagementSystem.csproj|C:\\Users\\sorosh\\Desktop\\Now\\SoftwareEngineering2\\Solution\\ProjectManagementSystem\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3B30FF2-7E03-408A-B4E2-4AF0DA7A5564}|ProjectManagementSystem.csproj|solutionrelative:project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3B30FF2-7E03-408A-B4E2-4AF0DA7A5564}|ProjectManagementSystem.csproj|C:\\Users\\sorosh\\Desktop\\Now\\SoftwareEngineering2\\Solution\\ProjectManagementSystem\\idmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3B30FF2-7E03-408A-B4E2-4AF0DA7A5564}|ProjectManagementSystem.csproj|solutionrelative:idmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3B30FF2-7E03-408A-B4E2-4AF0DA7A5564}|ProjectManagementSystem.csproj|C:\\Users\\sorosh\\Desktop\\Now\\SoftwareEngineering2\\Solution\\ProjectManagementSystem\\teammember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3B30FF2-7E03-408A-B4E2-4AF0DA7A5564}|ProjectManagementSystem.csproj|solutionrelative:teammember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\sorosh\\Desktop\\Now\\SoftwareEngineering2\\Solution\\ProjectManagementSystem\\Project.cs",
+              "RelativeDocumentMoniker": "Project.cs",
+              "ToolTip": "C:\\Users\\sorosh\\Desktop\\Now\\SoftwareEngineering2\\Solution\\ProjectManagementSystem\\Project.cs",
+              "RelativeToolTip": "Project.cs",
+              "ViewState": "AQIAAPkAAAAAAAAAAAAAANoAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T23:54:17.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sorosh\\Desktop\\Now\\SoftwareEngineering2\\Solution\\ProjectManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\sorosh\\Desktop\\Now\\SoftwareEngineering2\\Solution\\ProjectManagementSystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAF4BAAAAAAAAAAAgwFgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T23:54:17.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IDManager.cs",
+              "DocumentMoniker": "C:\\Users\\sorosh\\Desktop\\Now\\SoftwareEngineering2\\Solution\\ProjectManagementSystem\\IDManager.cs",
+              "RelativeDocumentMoniker": "IDManager.cs",
+              "ToolTip": "C:\\Users\\sorosh\\Desktop\\Now\\SoftwareEngineering2\\Solution\\ProjectManagementSystem\\IDManager.cs",
+              "RelativeToolTip": "IDManager.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAYwC8AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T23:54:17.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Administrator.cs",
+              "DocumentMoniker": "C:\\Users\\sorosh\\Desktop\\Now\\SoftwareEngineering2\\Solution\\ProjectManagementSystem\\Administrator.cs",
+              "RelativeDocumentMoniker": "Administrator.cs",
+              "ToolTip": "C:\\Users\\sorosh\\Desktop\\Now\\SoftwareEngineering2\\Solution\\ProjectManagementSystem\\Administrator.cs",
+              "RelativeToolTip": "Administrator.cs",
+              "ViewState": "AQIAAOoAAAAAAAAAAAAAAPAAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T23:54:17.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\sorosh\\Desktop\\Now\\SoftwareEngineering2\\Solution\\ProjectManagementSystem\\User.cs",
+              "RelativeDocumentMoniker": "User.cs",
+              "ToolTip": "C:\\Users\\sorosh\\Desktop\\Now\\SoftwareEngineering2\\Solution\\ProjectManagementSystem\\User.cs",
+              "RelativeToolTip": "User.cs",
+              "ViewState": "AQIAABkBAAAAAAAAAAAEwNsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T23:54:17.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TeamMember.cs",
+              "DocumentMoniker": "C:\\Users\\sorosh\\Desktop\\Now\\SoftwareEngineering2\\Solution\\ProjectManagementSystem\\TeamMember.cs",
+              "RelativeDocumentMoniker": "TeamMember.cs",
+              "ToolTip": "C:\\Users\\sorosh\\Desktop\\Now\\SoftwareEngineering2\\Solution\\ProjectManagementSystem\\TeamMember.cs",
+              "RelativeToolTip": "TeamMember.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T23:54:17.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TeamLeader.cs",
+              "DocumentMoniker": "C:\\Users\\sorosh\\Desktop\\Now\\SoftwareEngineering2\\Solution\\ProjectManagementSystem\\TeamLeader.cs",
+              "RelativeDocumentMoniker": "TeamLeader.cs",
+              "ToolTip": "C:\\Users\\sorosh\\Desktop\\Now\\SoftwareEngineering2\\Solution\\ProjectManagementSystem\\TeamLeader.cs",
+              "RelativeToolTip": "TeamLeader.cs",
+              "ViewState": "AQIAACkCAAAAAAAAAAAwwAoBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T23:54:17.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Task.cs",
+              "DocumentMoniker": "C:\\Users\\sorosh\\Desktop\\Now\\SoftwareEngineering2\\Solution\\ProjectManagementSystem\\Task.cs",
+              "RelativeDocumentMoniker": "Task.cs",
+              "ToolTip": "C:\\Users\\sorosh\\Desktop\\Now\\SoftwareEngineering2\\Solution\\ProjectManagementSystem\\Task.cs",
+              "RelativeToolTip": "Task.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAiwDYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T23:54:17.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CommonEnum.cs",
+              "DocumentMoniker": "C:\\Users\\sorosh\\Desktop\\Now\\SoftwareEngineering2\\Solution\\ProjectManagementSystem\\CommonEnum.cs",
+              "RelativeDocumentMoniker": "CommonEnum.cs",
+              "ToolTip": "C:\\Users\\sorosh\\Desktop\\Now\\SoftwareEngineering2\\Solution\\ProjectManagementSystem\\CommonEnum.cs",
+              "RelativeToolTip": "CommonEnum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T23:54:17.896Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
